@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Felipe
+# 👋 Olá, eu sou o Varejão
 
 Analista de Infraestrutura e Cloud com **10+ anos de experiência** em ambientes críticos de alta disponibilidade, com passagem pelo ecossistema Banco Bradesco/Next (PIX, contas digitais, transações financeiras). Atualmente em transição de carreira para **SRE/DevOps**, aprofundando Kubernetes, Terraform e GitOps na prática — e **aberto a novas oportunidades**.
 
